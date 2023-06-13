@@ -1,0 +1,95 @@
+body {
+    width: 50%;
+    margin: auto;
+
+}
+
+nav img {
+    width: auto;
+    height: 40px;
+    ;
+
+
+}
+
+header nav {
+    background-color: rgb(39, 38, 38)
+}
+
+span nav {
+    background-color: #012b2b;
+
+
+}
+
+div nav {
+    background-color: darkorange
+}
+
+nav h3 {
+    color: white;
+    text-align: center;
+}
+
+
+section img {
+    width: auto;
+    height: 300px;
+    text-align: center;
+    margin: auto
+}
+
+div img {
+    width: auto;
+    height: 100px;
+}
+
+div h3 {
+    text-align: center;
+
+}
+
+div h6 {
+    text-align: center;
+}
+
+
+
+.img1 {
+    width: 970px;
+}
+
+
+
+.img2 {
+    width: 970px;
+    height: 300px;
+}
+
+.img3 {
+    width: 970px;
+}
+
+.img4 {
+    width: 970px;
+}
+
+p {
+    text-align: center;
+}
+
+nav {
+
+    background-color: #012b2b;
+}
+
+
+
+.color {
+
+    color: white
+}
+
+nav a {
+    text-align: center;
+}
